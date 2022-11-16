@@ -1,4 +1,4 @@
-package org.generation.italy.security;
+package org.generation.italy;
 
 import java.util.Random;
 
