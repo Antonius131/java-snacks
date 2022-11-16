@@ -9,6 +9,8 @@ public class NameGenerator {
 		String[] nameList = {"Amal", "Antonio", "Giampiero", "Daniele", "Marco"};
 		String[] lastNameList = {"Jomon", "Mendetta", "Fedeli", "Canale", "Cafasso"};
 		
+		String[] fullNames = new String[3];
+		
 		
 		for (int i = 0; i < nameList.length && i < lastNameList.length; i++) {
 			

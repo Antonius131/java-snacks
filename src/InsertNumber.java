@@ -21,6 +21,8 @@ public class InsertNumber {
 			System.out.println(number + 1);
 		}
 		
+		
+//		System.out.println(number % 2 == 0 ? number : number + 1);
 	}
 	
 }
